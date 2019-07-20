@@ -59,5 +59,4 @@ class dataset:
 
 		if correlation == 'correlation matrix': self.correlation_matrix(plt)
 		if correlation == 'scatter plot': 		self.scatter_plot()
-
 		plt.show()
