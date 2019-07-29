@@ -11,7 +11,8 @@
 Also known as a mapping of an input to a value
 
 #### Useful Links to explore linear regression more:
-[Linear Regression from Scrath in Python](https://mubaris.com/posts/linear-regression/)
+1) [Linear Regression from Scrath in Python](https://mubaris.com/posts/linear-regression/)
+2) [Multiple Linear Regression Types with Scikit Learn](https://realpython.com/linear-regression-in-python/#multiple-linear-regression-with-scikit-learn)
 
 <a name="lreg"></a>
 ## 2. Logistic Regression
