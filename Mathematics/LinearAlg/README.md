@@ -1,5 +1,8 @@
 # Linear Algebra
 
+## Videos
+[3Blue1Brown Linear Algebra course](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
 ##### What is broadcasting in connection to Linear Algebra?	
 ##### What are scalars, vectors, matrices, and tensors?	
 ##### What is Hadamard product of two matrices?	
