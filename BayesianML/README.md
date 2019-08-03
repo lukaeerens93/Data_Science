@@ -32,7 +32,7 @@
 
 
 #### Optimization
-[Introduction on Bayesian Optimization taken from the Github account below](http://krasserm.github.io/2018/03/21/bayesian-optimization/)
+##### [Introduction on Bayesian Optimization taken from the Github account below](http://krasserm.github.io/2018/03/21/bayesian-optimization/)
 [From this Github account, topics of Bayesian Optimization are covered](https://github.com/krasserm/bayesian-machine-learning)
 1) [Variational Inference for Bayesian NN](https://github.com/krasserm/bayesian-machine-learning/blob/master/bayesian_neural_networks.ipynb)
 2) [Bayesian regression with linear basis function models](https://github.com/krasserm/bayesian-machine-learning/blob/master/bayesian_linear_regression.ipynb)
