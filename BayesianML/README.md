@@ -29,3 +29,15 @@
 2) [Bayesian estimator](https://en.wikipedia.org/wiki/Bayes_estimator)
 3) [Approximate Bayesian computation](https://en.wikipedia.org/wiki/Approximate_Bayesian_computation)
 4) [Markov chain Monte Carlo](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)
+
+
+#### Optimization
+[From this Github account, topics of Bayesian Optimization are covered](https://github.com/krasserm/bayesian-machine-learning)
+1) [Variational Inference for Bayesian NN](https://github.com/krasserm/bayesian-machine-learning/blob/master/bayesian_neural_networks.ipynb)
+2) [Bayesian regression with linear basis function models](https://github.com/krasserm/bayesian-machine-learning/blob/master/bayesian_linear_regression.ipynb)
+3) [Gaussian processes](https://github.com/krasserm/bayesian-machine-learning/blob/master/gaussian_processes.ipynb)
+4) [Bayesian optimization](https://github.com/krasserm/bayesian-machine-learning/blob/master/bayesian_optimization.ipynb)
+5) [Variational auto-encoder](https://github.com/krasserm/bayesian-machine-learning/blob/master/variational_autoencoder.ipynb)
+6) [Deep feature consistent variational auto-encoder](https://github.com/krasserm/bayesian-machine-learning/blob/master/variational_autoencoder_dfc.ipynb)
+7) [Conditional generation via Bayesian optimization in latent space](https://github.com/krasserm/bayesian-machine-learning/blob/master/variational_autoencoder_opt.ipynb)
+8) [Topic modeling with PyMC3](https://github.com/krasserm/bayesian-machine-learning/blob/master/topic_modeling_pymc3.ipynb)
