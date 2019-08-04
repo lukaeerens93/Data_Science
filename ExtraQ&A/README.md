@@ -11,6 +11,7 @@
 - [41 Essential ML Interview Questions with Answers](https://www.springboard.com/blog/machine-learning-interview-questions/)
 - [40 Questions asked at Startups in ML/Data Science](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/)
 - [What are some common ML interview questions](https://www.quora.com/What-are-some-common-machine-learning-interview-questions)
+- [120 Data Science Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)
 
 <a name="class"></a>
 ## 2. Curriculum and Classes
