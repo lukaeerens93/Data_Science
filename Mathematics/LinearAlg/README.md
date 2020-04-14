@@ -43,6 +43,7 @@
 ##### Which matrices can be decomposed by ED?	
 ##### Which matrices can be decomposed by SVD?	
 ##### What is the trace of a matrix?	
+[What is a trace (as in trace of a matrix) and why is it used?](https://www.quora.com/What-is-a-trace-as-in-trace-of-a-matrix-and-why-is-it-used)
 ##### How to write Frobenius norm of a matrix A in terms of trace?	
 ##### Why is trace of a multiplication of matrices invariant to cyclic permutations?	
 ##### What is the trace of a scalar?	
