@@ -24,3 +24,11 @@ ML Implementation languages + Libraries
 | Naive Bayes | Deep NN | |
 | Decision Trees & Random Forest | Decision Trees & Random Forest | |
 
+
+| Useful Github Links |
+| ----- |
+| [Data Science Cheat Sheets](https://github.com/georgearun/Data-Science--Cheat-Sheet) |
+| [ML & DL Cheat Sheets for Researchers](https://github.com/kailashahirwar/cheatsheets-ai) |
+| [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) |
+| [stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) |
+
