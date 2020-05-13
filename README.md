@@ -31,4 +31,4 @@ ML Implementation languages + Libraries
 | [ML & DL Cheat Sheets for Researchers](https://github.com/kailashahirwar/cheatsheets-ai) |
 | [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) |
 | [stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) |
-
+| [DL tutorial 10 weeks](https://github.com/sjchoi86/dl_tutorials_10weeks) |
