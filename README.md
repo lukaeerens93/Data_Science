@@ -14,33 +14,13 @@ ML Implementation languages + Libraries
 - R:
 
 
-ML Algorithms that will be implemented:
-
- Classification:
-- KNN
-- KMeans
-- SVM
-- Decision Trees
-- Random Forest
-- Naive Bayes
-
-
- Regression:
-- Linear Regression
-- Logistic Regression
-- Single Layer NN
-- Deep NN
-
-
- Other Algorithms:
-- PCA
-- LDA
-- Cannonical Correlation Analysis
+### ML Algorithms that will be implemented:
 
 | Classification | Regression | Other Algorithms |
 | ----- | ----- | ----- |
 | KNN | Linear Regression | PCA |
 | KMeans | Logistic Regression | LDA |
-| SVM | Single Layer NN | Cannonical Correlation Analysis |
+| SVM | Shallow NN | Cannonical Correlation Analysis |
 | Naive Bayes | Deep NN | |
 | Decision Trees & Random Forest | Decision Trees & Random Forest | |
+
