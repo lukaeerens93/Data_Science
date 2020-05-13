@@ -1,6 +1,6 @@
 # Data_Science
 
-This repo contains a large range of classic ML algorithms implemented
+This repo contains a large range of classic ML algorithms implemented 
 in various ways on popular datasets:
 
 List of Datasets:
@@ -36,3 +36,11 @@ ML Algorithms that will be implemented:
 - PCA
 - LDA
 - Cannonical Correlation Analysis
+
+| Classification | Regression | Other Algorithms |
+| ----- | ----- | ----- |
+| KNN | Linear Regression | PCA |
+| KMeans | Logistic Regression | LDA |
+| SVM | Single Layer NN | Cannonical Correlation Analysis |
+| Naive Bayes | Deep NN | |
+| Decision Trees & Random Forest | Decision Trees & Random Forest | |
