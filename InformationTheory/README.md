@@ -11,6 +11,9 @@
 9) [Entropy Rate](https://en.wikipedia.org/wiki/Entropy_rate)
 10) [Asymptotic Equipartition Property](https://en.wikipedia.org/wiki/Asymptotic_equipartition_property)
 
+| Beginner| Medium | Advanced |
+| ------ | ------ | ------ |
+| [What is Entropy & Information Gain](https://stackoverflow.com/questions/1859554/what-is-entropy-and-information-gain) | | |
 
 # KL Divergence
 ![](images/KL_Divergence.jpg)
